@@ -125,3 +125,6 @@ temp/
 #!! ERROR: phoenix). is undefined. Use list command to see defined gitignore types !!#
 
 # End of https://www.gitignore.io/api/node,elixir,phoenix).
+
+# Custom ignore rules
+/test-reports
